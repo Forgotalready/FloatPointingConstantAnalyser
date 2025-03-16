@@ -1,0 +1,132 @@
+[
+    {
+        "arguments": [
+            "D:\\Clib\\MingGW_forSFML\\bin\\c++.exe",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-DPVS_STUDIO",
+            "-DPVS_VERSION_MAJOR=7",
+            "-DPVS_VERSION_MINOR=34",
+            "D:\\NewFolder\\Labs\\Compile\\Lab2\\Scanner\\State\\StateS7.cpp"
+        ],
+        "dependencies": [],
+        "id": 8
+    },
+    {
+        "arguments": [
+            "D:\\Clib\\MingGW_forSFML\\bin\\c++.exe",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-DPVS_STUDIO",
+            "-DPVS_VERSION_MAJOR=7",
+            "-DPVS_VERSION_MINOR=34",
+            "D:\\NewFolder\\Labs\\Compile\\Lab2\\Scanner\\Scanner.cpp"
+        ],
+        "dependencies": [],
+        "id": 1
+    },
+    {
+        "arguments": [
+            "D:\\Clib\\MingGW_forSFML\\bin\\c++.exe",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-DPVS_STUDIO",
+            "-DPVS_VERSION_MAJOR=7",
+            "-DPVS_VERSION_MINOR=34",
+            "D:\\NewFolder\\Labs\\Compile\\Lab2\\Scanner\\State\\StateS1.cpp"
+        ],
+        "dependencies": [],
+        "id": 2
+    },
+    {
+        "arguments": [
+            "D:\\Clib\\MingGW_forSFML\\bin\\c++.exe",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-DPVS_STUDIO",
+            "-DPVS_VERSION_MAJOR=7",
+            "-DPVS_VERSION_MINOR=34",
+            "D:\\NewFolder\\Labs\\Compile\\Lab2\\Scanner\\State\\StateS2.cpp"
+        ],
+        "dependencies": [],
+        "id": 3
+    },
+    {
+        "arguments": [
+            "D:\\Clib\\MingGW_forSFML\\bin\\c++.exe",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-DPVS_STUDIO",
+            "-DPVS_VERSION_MAJOR=7",
+            "-DPVS_VERSION_MINOR=34",
+            "D:\\NewFolder\\Labs\\Compile\\Lab2\\Scanner\\State\\StateS3.cpp"
+        ],
+        "dependencies": [],
+        "id": 4
+    },
+    {
+        "arguments": [
+            "D:\\Clib\\MingGW_forSFML\\bin\\c++.exe",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-DPVS_STUDIO",
+            "-DPVS_VERSION_MAJOR=7",
+            "-DPVS_VERSION_MINOR=34",
+            "D:\\NewFolder\\Labs\\Compile\\Lab2\\Scanner\\State\\StateS4.cpp"
+        ],
+        "dependencies": [],
+        "id": 5
+    },
+    {
+        "arguments": [
+            "D:\\Clib\\MingGW_forSFML\\bin\\c++.exe",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-DPVS_STUDIO",
+            "-DPVS_VERSION_MAJOR=7",
+            "-DPVS_VERSION_MINOR=34",
+            "D:\\NewFolder\\Labs\\Compile\\Lab2\\Scanner\\State\\StateS5.cpp"
+        ],
+        "dependencies": [],
+        "id": 6
+    },
+    {
+        "arguments": [
+            "D:\\Clib\\MingGW_forSFML\\bin\\c++.exe",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-DPVS_STUDIO",
+            "-DPVS_VERSION_MAJOR=7",
+            "-DPVS_VERSION_MINOR=34",
+            "D:\\NewFolder\\Labs\\Compile\\Lab2\\main.cpp"
+        ],
+        "dependencies": [],
+        "id": 10
+    },
+    {
+        "arguments": [
+            "D:\\Clib\\MingGW_forSFML\\bin\\c++.exe",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-DPVS_STUDIO",
+            "-DPVS_VERSION_MAJOR=7",
+            "-DPVS_VERSION_MINOR=34",
+            "D:\\NewFolder\\Labs\\Compile\\Lab2\\Scanner\\State\\StateS6.cpp"
+        ],
+        "dependencies": [],
+        "id": 7
+    },
+    {
+        "arguments": [
+            "D:\\Clib\\MingGW_forSFML\\bin\\c++.exe",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-DPVS_STUDIO",
+            "-DPVS_VERSION_MAJOR=7",
+            "-DPVS_VERSION_MINOR=34",
+            "D:\\NewFolder\\Labs\\Compile\\Lab2\\Scanner\\State\\StateS8.cpp"
+        ],
+        "dependencies": [],
+        "id": 9
+    }
+]
